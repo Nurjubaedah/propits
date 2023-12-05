@@ -7,7 +7,6 @@ plotly==5.13.1
 numerize
 python-time
 pillow
-python==3.11.4
 joblib
 matplotlib
 seaborn
